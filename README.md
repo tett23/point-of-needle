@@ -37,8 +37,6 @@
 | 連続体・種類が有限（九つの聖歌隊など）で各種類の大きさが正 | 有限 | `bounded_of_finite_kinds` |
 | 連続体・大きさは正だが下限なし | 高々可算だが、同時に無限人が踊れて有限の上限はない | `countable_of_material`, `infinitely_many_shrinking` |
 
-直径約 1mm の針（約 6.2×10³¹ プランク長）では 9.61×10⁶² 人。
-
 ## ビルド
 
 ```bash
